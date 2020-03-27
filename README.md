@@ -1,2 +1,0 @@
-# ComponentCommunicationReact
-Created with CodeSandbox
